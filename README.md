@@ -9,7 +9,7 @@ Then I will use a hosting service to make a web page that updates data automatic
 
 * **IDE:** I need a developer tool to work comfortably with the files, and I chose _Visual Studio Code_, Althought I also used _Netbeans 11.2_ in order to more easily see the result of the XSLT Transformation.
 
-* **Hosting service:** Finally I need a hosting service to get my web up online.
+* **Hosting service:** Finally, I need a hosting service to get my web up online.
 I chose _Firebase_ because it's easy to set up and is also free.
 
 
