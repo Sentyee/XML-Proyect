@@ -1,0 +1,505 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<wb:data page="1" pages="2" per_page="50" total="60" sourceid="2" lastupdated="2020-04-09" 
+  xmlns:wb="http://www.worldbank.org">
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2019</wb:date>
+    <wb:value />
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2018</wb:date>
+    <wb:value>7.4904</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2017</wb:date>
+    <wb:value>7.725</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2016</wb:date>
+    <wb:value>7.9744</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2015</wb:date>
+    <wb:value>8.2238</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2014</wb:date>
+    <wb:value>8.4732</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2013</wb:date>
+    <wb:value>8.7226</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2012</wb:date>
+    <wb:value>8.972</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2011</wb:date>
+    <wb:value>9.7256</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2010</wb:date>
+    <wb:value>10.4792</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2009</wb:date>
+    <wb:value>11.2328</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2008</wb:date>
+    <wb:value>11.9864</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2007</wb:date>
+    <wb:value>12.74</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2006</wb:date>
+    <wb:value>12.226</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2005</wb:date>
+    <wb:value>11.712</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2004</wb:date>
+    <wb:value>11.198</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2003</wb:date>
+    <wb:value>10.684</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2002</wb:date>
+    <wb:value>10.17</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2001</wb:date>
+    <wb:value>9.7432</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>2000</wb:date>
+    <wb:value>9.3164</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1999</wb:date>
+    <wb:value>8.8896</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1998</wb:date>
+    <wb:value>8.4628</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1997</wb:date>
+    <wb:value>8.036</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1996</wb:date>
+    <wb:value>8.3646</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1995</wb:date>
+    <wb:value>8.6932</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1994</wb:date>
+    <wb:value>9.0218</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1993</wb:date>
+    <wb:value>9.3504</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1992</wb:date>
+    <wb:value>9.679</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1991</wb:date>
+    <wb:value>10.7666</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1990</wb:date>
+    <wb:value>11.8542</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1989</wb:date>
+    <wb:value>12.9418</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1988</wb:date>
+    <wb:value>14.0294</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1987</wb:date>
+    <wb:value>15.117</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1986</wb:date>
+    <wb:value>16.3432</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1985</wb:date>
+    <wb:value>17.5694</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1984</wb:date>
+    <wb:value>18.7956</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1983</wb:date>
+    <wb:value>20.0218</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1982</wb:date>
+    <wb:value>21.248</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1981</wb:date>
+    <wb:value>22.124</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1980</wb:date>
+    <wb:value>23</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1979</wb:date>
+    <wb:value>23.876</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1978</wb:date>
+    <wb:value>24.752</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1977</wb:date>
+    <wb:value>25.628</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1976</wb:date>
+    <wb:value>23.9258</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1975</wb:date>
+    <wb:value>22.2236</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1974</wb:date>
+    <wb:value>20.5214</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1973</wb:date>
+    <wb:value>18.8192</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1972</wb:date>
+    <wb:value>17.117</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1971</wb:date>
+    <wb:value>16.2018</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+  <wb:data>
+    <wb:indicator id="SP.ADO.TFRT">Adolescent fertility rate (births per 1,000 women ages 15-19)</wb:indicator>
+    <wb:country id="ES">Spain</wb:country>
+    <wb:countryiso3code>ESP</wb:countryiso3code>
+    <wb:date>1970</wb:date>
+    <wb:value>15.2866</wb:value>
+    <wb:unit />
+    <wb:obs_status />
+    <wb:decimal>0</wb:decimal>
+  </wb:data>
+</wb:data>
