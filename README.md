@@ -33,14 +33,14 @@ I chose _Firebase_ because it's easy to set up and is also free.
 
 ## Links 🔧
 
-- [XSL file that transforms the original XML into a clearer version](https://github.com/Sentyee/LNDXML/blob/master/XML-To-XML.xsl)
+- [XSL file that transforms the original XML into a clearer version](https://github.com/Sentyee/XML-Proyect/blob/master/XML-To-XML.xsl)
 
-- [New XML file](https://github.com/Sentyee/LNDXML/blob/master/Adolescent%20fertility%20rate%20(Spain)%20(Result).xml)
+- [New XML file](https://github.com/Sentyee/XML-Proyect/blob/master/Adolescent%20fertility%20rate%20(Spain)%20(Result).xml)
 
-- [XSD file that validates the XML](https://github.com/Sentyee/LNDXML/blob/master/XMLValidator.xsd)
+- [XSD file that validates the XML](https://github.com/Sentyee/XML-Proyect/blob/master/XMLValidator.xsd)
 
-- [XSL file that transforms the XML into a HTML file](https://github.com/Sentyee/LNDXML/blob/master/XML-To-HTML.xsl)
+- [XSL file that transforms the XML into a HTML file](https://github.com/Sentyee/XML-Proyect/blob/master/XML-To-HTML.xsl)
 
-- [HTML Proyect](https://github.com/Sentyee/LNDXML/tree/master/public)
+- [HTML Proyect](https://github.com/Sentyee/XML-Proyect/tree/master/public)
 
 - [Website](https://lndxml.web.app/)
